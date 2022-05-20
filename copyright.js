@@ -1,0 +1,1 @@
+var Today=new Date();document.getElementById("copyright").innerHTML="Copyright &copy;"+Today.getFullYear()+"沐軒鍋物 ｜新北板橋區海鮮火鍋,新北板橋區新鮮肉品火鍋 All Rights Reserved. <span>Designed by Shop1688<\/span>";
